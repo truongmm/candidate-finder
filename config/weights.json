@@ -1,0 +1,22 @@
+{
+  "weights": {
+    "firstName": 2,
+    "lastName": 2,
+    "location": 0.5,
+    "linkedIn": 5,
+    "github": 5,
+    "twitter": 5,
+    "gravatar": 5,
+    "facebook": 5,
+    "klout": 5,
+    "angellist": 5,
+    "google": 5,
+    "foursquare": 5,
+    "pinterest": 5,
+    "aboutMe": 5,
+    "flickr": 5,
+    "vimeo": 5,
+    "googlePlus": 5,
+    "quora": 5
+  }
+}

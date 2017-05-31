@@ -1,0 +1,77 @@
+{
+  "firstName": "Madhuri",
+  "lastName": "S..",
+  "location": "San Francisco Bay Area",
+  "resume": {
+    "education": [
+      {
+        "school": "Columbia University in the City of New York",
+        "degree": "Masters"
+      },
+      {
+        "school": "Veermata Jijabai Technological Institute, Mumbai",
+        "degree": "Bachelors of Engineering"
+      }
+    ],
+    "experience": [{
+        "company": "General Assembly",
+        "title": "Product Expert in Residence",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "company": "StyleSeat",
+        "title": "Product Lead",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "company": "Chartboost",
+        "title": "Product Lead",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Senior Product Manager, Bing",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "company": "LinkedIn",
+        "title": "Senior Product Engineer",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "company": "Yahoo Inc. (San Francisco Bay Area)",
+        "title": "Senior Software Engineer",
+        "location": "San Francisco Bay Area"
+      },
+      {
+        "company": "Microsoft (Greater Seattle Area)",
+        "title": "Software Design Engineer",
+        "location": "Greater Seattle Area"
+      }
+    ]
+  },
+  "profiles": {
+    "linkedIn": {
+      "url": "www.linkedin.com/in/smadhuri",
+      "avatarUrl": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAf6AAAAJDA3NTM2NDFhLWQ2MWUtNDc0OC1hY2YzLTljODE5OGViZTMzMw.jpg",
+      "userId": ""
+    },
+    "github": null,
+    "twitter": {
+      "url": "http://www.twitter.com/smadhuri",
+      "userId": "smadhuri"
+    },
+    "gravatar": null,
+    "facebook": null,
+    "klout": null,
+    "angellist": null,
+    "google": null,
+    "foursquare": null,
+    "pinterest": null,
+    "aboutMe": null,
+    "flickr": null,
+    "vimeo": null,
+    "googlePlus": null,
+    "quora": null
+  }
+}
